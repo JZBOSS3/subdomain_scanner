@@ -6,3 +6,5 @@ Python Tool Designed to Scan Subdomains for The Possibility of Takeover
 1. git clone https://github.com/JZBOSS3/subdomain_scanner.git
 2. cd subdomain_scanner
 3. pip install -r requirements.txt
+4. chmod +x vuln_subdomain.py
+   
